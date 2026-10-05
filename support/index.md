@@ -35,6 +35,8 @@ Open **Settings → Privacy & Security → Location Services → MyFitsLog** and
 
 For information about how data is handled, see our [Privacy Policy](../).
 
+For app use and Pro purchases, see our [Terms of Use](../terms/).
+
 ---
 
 # MyFitsLog サポート
@@ -67,5 +69,7 @@ iPhoneまたはiPadの **設定 → プライバシーとセキュリティ → 
 ## プライバシー
 
 データの取り扱いについては、[プライバシーポリシー](../)をご覧ください。
+
+アプリの利用・Proの購入については、[利用規約](../terms/)をご覧ください。
 
 Last updated: September 22, 2026

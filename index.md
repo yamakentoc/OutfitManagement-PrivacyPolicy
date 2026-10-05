@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy / プライバシーポリシー
+permalink: /
+---
+
 **最終更新日：2025年5月22日**
 
 ---
@@ -52,3 +58,7 @@
 本ポリシー・本アプリに関するご質問・ご意見は、以下までご連絡ください。
 
 yamakentoc@gmail.com
+
+---
+
+[利用規約 / Terms of Use](terms/) · [サポート / Support](support/)

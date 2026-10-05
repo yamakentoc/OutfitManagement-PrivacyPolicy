@@ -1,2 +1,6 @@
 remote_theme: "jekyll/minima@1e8a445"
-title: "MyFitsLog_PrivacyPolicy"
+title: "MyFitsLog"
+header_pages:
+  - index.md
+  - terms/index.md
+  - support/index.md
