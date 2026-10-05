@@ -24,6 +24,8 @@ Outfit photos, notes, collections, frequently worn outfits, and associated photo
 
 The app uses Firebase Analytics to understand feature use, screen views, registration counts, and onboarding choices. It uses Firebase Crashlytics to investigate crashes and other errors. These services can process app-installation or device identifiers, device and OS information, app version, interaction events, and diagnostic logs. These identifiers distinguish installations; this data is not guaranteed to be completely anonymous.
 
+Firebase Remote Config manages app configuration and update notices. It can process installation identifiers, country/language codes, time zone, and app/OS versions to deliver the applicable settings.
+
 If you send feedback, the entered title and message, together with app/device environment information, are sent through Firebase Cloud Functions and stored in Firestore to investigate and respond to your request. Information you voluntarily include in your message is also received.
 
 ### 4. Advertising and privacy choices
@@ -77,6 +79,8 @@ MyFitsLogはyamakentoc（以下「開発者」）が提供します。本ポリ�
 ### 3. 利用状況の分析、不具合解析、お問い合わせ
 
 Firebase Analyticsを利用し、機能の利用状況、画面閲覧、登録件数、オンボーディングの選択などを分析します。Firebase Crashlyticsを利用し、クラッシュやその他のエラーを調査します。これらのサービスは、アプリのインストールまたは端末を区別する識別子、端末・OS情報、アプリのバージョン、操作イベント、診断ログを処理する場合があります。識別子によってインストールを区別するため、完全に匿名のデータとは限りません。
+
+Firebase Remote Configを使い、アプリの設定や更新案内を取得します。適用する設定の判断に、インストールの識別子、国・言語コード、タイムゾーン、アプリ・OSのバージョンなどを処理する場合があります。
 
 フィードバック送信時は、入力したタイトル・メッセージとアプリ・端末の動作環境情報をFirebase Cloud Functions経由で送信し、Firestoreに保存してお問い合わせ対応や不具合調査に使います。本文にユーザー自身が記載した情報も受信します。
 
